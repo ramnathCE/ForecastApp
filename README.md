@@ -29,6 +29,7 @@ Step 2: Use XCode 8 and Swift 3.0 to run the app. In case if the app asks you to
 
 
 - Features: I would like to separate by weather by each day for every 3 hours in a grid view so the users will get a better info such as what is the current and upcoming forecast for the rest of the day. e.g. Screenshot attached below.
+
 ![Alt text](https://github.com/ramnathCE/ForecastApp/blob/master/Screens/like_to_have.png "Screen 1")
 
  
@@ -38,10 +39,15 @@ Step 2: Use XCode 8 and Swift 3.0 to run the app. In case if the app asks you to
 
 ## Screens
 ### Currently achieved
+
 ![Alt text](https://github.com/ramnathCE/ForecastApp/blob/master/Screens/temporary_screen.png "Screen 2")
 
 
+
+
+
 ### Like to be achieved
+
 ![Alt text](https://github.com/ramnathCE/ForecastApp/blob/master/Screens/like_to_have.png "Screen 1")
 
 
