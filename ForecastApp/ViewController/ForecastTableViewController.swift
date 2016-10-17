@@ -56,7 +56,7 @@ class ForecastTableViewController: UITableViewController {
     }
     
     func reloadTheTable() {
-        //foreCastTableView.reloadData()
+        foreCastTableView.reloadData()
     }
  
 
